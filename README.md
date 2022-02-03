@@ -1,4 +1,5 @@
 # Hi There and Welcome!
+My name is Tommy and I am a software engineer. I originally started writing code as a hobby because I enjoy it. I love problem solving, and I love seeing all my work come together to create something awesome. Recently I have been working hard to turn this hobby into a career. I attended a full stack bootcamp at the University of Minnesota, and more recently I completed the 1100+ hour full time bootcamp App Academy. Some of my hobbies include making coffee (with the most nerdy level of precision you can imagine), music, fitness, and of course passion projects (I know, more code).
 
 ## Check out some of my recent projects!
 
